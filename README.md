@@ -6,7 +6,7 @@ It demonstrates how to wire up small microservices into a larger application usi
 
 Development Branch
 ------------------
-:warning: **Please note that master is our development branch and may contain untested features.** For stable branch use a version branch like `1.1.x`
+This is the stable 3.6
 
 Services
 --------
